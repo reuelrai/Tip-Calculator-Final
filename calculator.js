@@ -8,6 +8,4 @@ function calculatetotal(){
     const totalvalue = billvalue * (1 + tipvalue/100);
     totalspan.innerText = totalvalue.toFixed(2);
 }
-
-
 btnid.addEventListener("click", calculatetotal);
