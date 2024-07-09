@@ -55,6 +55,7 @@ body {
 
 .container .billing #calculate {
     color: white;
+    border: 1px solid white;
     background-color: rgb(33, 122, 255);
     width: 100%;
     padding: 10px; /* Add padding to the button */
