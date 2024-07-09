@@ -60,6 +60,7 @@ body {
     width: 100%;
     padding: 10px; /* Add padding to the button */
     font-size: 20px;
+    border-radius: 15px;
 }
 .container .billing #total{
     color: white;
