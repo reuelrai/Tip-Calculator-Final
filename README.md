@@ -1,1 +1,1 @@
-The webpage is live on https://reuelrai.github.io/Tip-Calculator-Final/
+The webpage is live at https://reuelrai.github.io/Tip-Calculator-Final/
